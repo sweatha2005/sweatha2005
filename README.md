@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sweatha</h1>
-<h3 align="center">Computer Science Student | Full Stack Developer | Blockchain & AI Enthusiast</h3>
+<h3 align="center">Infromation Technology Student | Full Stack Developer | Blockchain & AI Enthusiast</h3>
 
 ---
 
